@@ -1,6 +1,4 @@
-tensorflow
-opencv-python
+streamlit==1.32.2
+tensorflow-cpu==2.12.0
 numpy
-streamlit
 Pillow
-matplotlib
