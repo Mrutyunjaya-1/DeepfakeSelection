@@ -155,7 +155,7 @@ streamlit run app.py
 ---
 
 ## 🔄 Application Workflow
-
+Live app - https://deepfakeselection-ezzghjehsft6ar6igcycne.streamlit.app/
 1. User uploads an image.
 2. Image is resized and normalized.
 3. MobileNetV2 extracts facial features.
